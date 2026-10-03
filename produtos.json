@@ -1,0 +1,38 @@
+[
+    {
+        "id": 101,
+        "title": "Notebook Gamer",
+        "price": 3499.90,
+        "description": "Notebook gamer de alto desempenho para jogos, estudos e tarefas do dia a dia.",
+        "category": "eletronicos",
+        "image": "imagens/notebook.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 125
+        }
+    },
+    {
+        "id": 102,
+        "title": "Mouse Gamer",
+        "price": 149.90,
+        "description": "Mouse gamer com alta precisão, iluminação RGB e design ergonômico.",
+        "category": "acessorios",
+        "image": "imagens/mouse.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 89
+        }
+    },
+    {
+        "id": 103,
+        "title": "Teclado Mecânico",
+        "price": 299.90,
+        "description": "Teclado mecânico com iluminação RGB, ideal para jogos e produtividade.",
+        "category": "acessorios",
+        "image": "imagens/teclado.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 103
+        }
+    }
+]
